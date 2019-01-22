@@ -1,0 +1,25 @@
+{
+  "name": "quuilt",
+  "version": "1.0.0",
+  "description": "Generate emoji quilt representations of UUIDs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinrstout/quuilt.git"
+  },
+  "keywords": [
+    "emoji"
+  ],
+  "author": "Justin R. Stout",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/justinrstout/quuilt/issues"
+  },
+  "homepage": "https://github.com/justinrstout/quuilt#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
